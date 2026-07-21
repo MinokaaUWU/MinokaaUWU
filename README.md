@@ -38,10 +38,7 @@ I write **C#** for **Space Station 14** (Robust Toolbox) and build **Java** mods
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MinokaaUWU&show_icons=true&count_private=true&hide_title=false&hide_border=true&bg_color=0D1117&title_color=FF9ECD&icon_color=FFB6C1&text_color=FFFFFF&ring_color=FF9ECD" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinokaaUWU&hide_border=true&background=0D1117&ring=FF9ECD&fire=FF9ECD&currStreakLabel=FFB6C1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinokaaUWU&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF9ECD&text_color=FFFFFF&langs_count=8" height="165"/>
 
 </div>
 
