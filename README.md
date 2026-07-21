@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:0D1117&height=220&section=header&text=Minokaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SS14%20%26%20Minecraft%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:0D1117&height=220&section=header&text=Minokaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SS14%20and%20Minecraft%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
